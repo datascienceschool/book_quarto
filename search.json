@@ -1,0 +1,162 @@
+[
+  {
+    "objectID": "02.00.chapter02.html",
+    "href": "02.00.chapter02.html",
+    "title": "2장 콰르토 마크다운",
+    "section": "",
+    "text": "이 장에서는 콰트로 마크다운 형식을 소개한다.",
+    "crumbs": [
+      "2장 콰르토 마크다운"
+    ]
+  },
+  {
+    "objectID": "02.00.chapter02.html#학습-목표",
+    "href": "02.00.chapter02.html#학습-목표",
+    "title": "2장 콰르토 마크다운",
+    "section": "학습 목표",
+    "text": "학습 목표\n\n콰트로 마크다운의 기본문법을 익힌다.",
+    "crumbs": [
+      "2장 콰르토 마크다운"
+    ]
+  },
+  {
+    "objectID": "01.02.install.html",
+    "href": "01.02.install.html",
+    "title": "콰르토 설치",
+    "section": "",
+    "text": "콰르토 설치 프로그램은 다음 웹사이트에서 다운로드 받을 수 있다.\n\nhttps://quarto.org/docs/get-started/",
+    "crumbs": [
+      "콰르토 설치"
+    ]
+  },
+  {
+    "objectID": "01.02.install.html#설치-프로그램-다운로드",
+    "href": "01.02.install.html#설치-프로그램-다운로드",
+    "title": "콰르토 설치",
+    "section": "",
+    "text": "콰르토 설치 프로그램은 다음 웹사이트에서 다운로드 받을 수 있다.\n\nhttps://quarto.org/docs/get-started/",
+    "crumbs": [
+      "콰르토 설치"
+    ]
+  },
+  {
+    "objectID": "01.02.install.html#확장-프로그램",
+    "href": "01.02.install.html#확장-프로그램",
+    "title": "콰르토 설치",
+    "section": "확장 프로그램",
+    "text": "확장 프로그램\n콰르토의 입력 정보인 콰르토 마크다운 파일은 텍스트 파일이므로 텍스트 편집을 위한 프로그램이 필요하다.\n콰르토는 파이썬이나 R 코드를 삽입하고 실행하는데 최적화되어 있으므로 텍스트 에디터 대신 프로그램 작성에 사용되는 VS Code, JupyterLab, RStudio 등의 통합개발환경을 사용할 수도 있다. 이러한 통합개발환경의 경우 콰르토 마크다운 파일 편집을 위한 확장 기능을 제공한다.",
+    "crumbs": [
+      "콰르토 설치"
+    ]
+  },
+  {
+    "objectID": "01.00.chapter01.html",
+    "href": "01.00.chapter01.html",
+    "title": "1장 콰르토의 소개",
+    "section": "",
+    "text": "이 장에서는 콰트로 프로그램을 설치하고 기본적인 기능을 소개한다.",
+    "crumbs": [
+      "1장 콰르토의 소개"
+    ]
+  },
+  {
+    "objectID": "01.00.chapter01.html#학습-목표",
+    "href": "01.00.chapter01.html#학습-목표",
+    "title": "1장 콰르토의 소개",
+    "section": "학습 목표",
+    "text": "학습 목표\n\n콰트로 프로그램의 기능을 소개한다.\n콰트로를 설치한다.\n명령줄에서 콰트로 프로그램을 사용하는 방법을 익힌다.\nVS Code 프로그램에서 콰트로 확장 기능을 사용하는 방법을 익힌다.",
+    "crumbs": [
+      "1장 콰르토의 소개"
+    ]
+  },
+  {
+    "objectID": "01.01.intro.html",
+    "href": "01.01.intro.html",
+    "title": "콰르토 소개",
+    "section": "",
+    "text": "콰르토(quarto)는 .qmd 확장자를 가지는 ‘콰르토 마크다운 파일’ 또는 .ipynb 확장자를 가지는 ’주피터 노트북 파일’을 html 파일이나 pdf, MS워드, MS파워포인트 등 다양한 형식의 문서 파일로 변환하는 문서 변환 프로그램이다.",
+    "crumbs": [
+      "콰르토 소개"
+    ]
+  },
+  {
+    "objectID": "01.01.intro.html#문서형식-변환",
+    "href": "01.01.intro.html#문서형식-변환",
+    "title": "콰르토 소개",
+    "section": "",
+    "text": "콰르토(quarto)는 .qmd 확장자를 가지는 ‘콰르토 마크다운 파일’ 또는 .ipynb 확장자를 가지는 ’주피터 노트북 파일’을 html 파일이나 pdf, MS워드, MS파워포인트 등 다양한 형식의 문서 파일로 변환하는 문서 변환 프로그램이다.",
+    "crumbs": [
+      "콰르토 소개"
+    ]
+  },
+  {
+    "objectID": "01.01.intro.html#정적-웹-사이트-생성기",
+    "href": "01.01.intro.html#정적-웹-사이트-생성기",
+    "title": "콰르토 소개",
+    "section": "정적 웹 사이트 생성기",
+    "text": "정적 웹 사이트 생성기\n콰르토는 HTML 파일도 생성할 수 있으므로 동적인 웹 애플리케이션이 아니라 순수 HTML 파일로 구성된 정적 웹사이트(static website)를 생성하는 도구로 많이 사용된다. 단순히 마크다운 파일을 웹사이트로 만드는 일반적인 정적 웹사이트 생성기는 콰르토 이외에도 다음과 같은 여러가지 프로그램이 존재한다.\n\n지킬(Jekyll)\n휴고(Hugo)\n도큐사우르스(Docusaurus)\n\n이러한 이러한 정적 웹사이트 생성기와 비교하여 콰르토가 가지는 장점은 입력 파일에 포함된 파이썬 또는 R 등의 프로그램 코드를 실행하고 실행 결과를 출력문서에 원하는 방식으로 포함할 수 있다는 점이다. 따라서 소프트웨어 사용이나 개발과 관련된 문서를 제작하는데 많이 사용된다.",
+    "crumbs": [
+      "콰르토 소개"
+    ]
+  },
+  {
+    "objectID": "01.03.cli.html",
+    "href": "01.03.cli.html",
+    "title": "콰르토 사용법",
+    "section": "",
+    "text": "콰르토는 별도의 실행화면을 가진 애플리케이션이 아니라 터미널 또는 명령어 창에서 실행하는 명령어(command line) 프로그램이다.\n콰르토 명령은 quarto 키워드 + 명령 + 인수 + 옵션 형식으로 구성된다.\n자주 사용하는 콰르토 명령어들은 다음과 같다.\n\nrender: 파일 변환\npreview: 파일 변환후 브라우저에서 미리보기\nhelp: 도움말 보기\n\n예를 들어 sample.qmd 파일을 sample.html 파일로 변환하려면 다음 명령을 실행하면 된다.\nquarto render sample.qmd --to html \n위 명령에서 quarto는 콰르토 프로그램을 실행하는 키워드이고 render는 변환을 실행하라는 명령, sample.qmd는 변환 대상이 되는 파일을 지정하는 인수, --to html는 HTML 형식으로 변환하라는 옵션이다.\nrender 명령 대신 preview 명령을 사용하면 변환한 후에 웹브라우저를 실행시키고 해당 문서를 웹브라우저에서 보여준다.\nquarto preview sample.qmd --to html",
+    "crumbs": [
+      "콰르토 사용법"
+    ]
+  },
+  {
+    "objectID": "02.01.markdown.html",
+    "href": "02.01.markdown.html",
+    "title": "콰르토 마크다운 기본문법",
+    "section": "",
+    "text": "글자 스타일을 바꿀 때는 단어의 앞과 뒤에 별표(*)를 붙인다. 별표의 개수에 따라 스타일이 달라진다.\n\n\n\n\n\n\n\n\nsamples/ch02/sample_02_01.qmd 코드\n\n보통 글자\n\n*이탤릭체 글자*\n\n**볼드체 글자**\n\n***이탤릭 + 볼드***\n\n*단어*의 **중간**에 ***별표***가 있어도 처리가 가능합니다.\n\n\n\n\nsamples/ch02/sample_02_01.qmd 변환결과\n\n\n보통 글자\n이탤릭체 글자\n볼드체 글자\n이탤릭 + 볼드\n단어의 중간에 별표가 있어도 처리가 가능합니다.",
+    "crumbs": [
+      "콰르토 마크다운 기본문법"
+    ]
+  },
+  {
+    "objectID": "02.01.markdown.html#글자-스타일",
+    "href": "02.01.markdown.html#글자-스타일",
+    "title": "콰르토 마크다운 기본문법",
+    "section": "",
+    "text": "글자 스타일을 바꿀 때는 단어의 앞과 뒤에 별표(*)를 붙인다. 별표의 개수에 따라 스타일이 달라진다.\n\n\n\n\n\n\n\n\nsamples/ch02/sample_02_01.qmd 코드\n\n보통 글자\n\n*이탤릭체 글자*\n\n**볼드체 글자**\n\n***이탤릭 + 볼드***\n\n*단어*의 **중간**에 ***별표***가 있어도 처리가 가능합니다.\n\n\n\n\nsamples/ch02/sample_02_01.qmd 변환결과\n\n\n보통 글자\n이탤릭체 글자\n볼드체 글자\n이탤릭 + 볼드\n단어의 중간에 별표가 있어도 처리가 가능합니다.",
+    "crumbs": [
+      "콰르토 마크다운 기본문법"
+    ]
+  },
+  {
+    "objectID": "02.01.markdown.html#제목",
+    "href": "02.01.markdown.html#제목",
+    "title": "콰르토 마크다운 기본문법",
+    "section": "제목",
+    "text": "제목\n첫줄에 # 기호를 쓰면 제목이 된다. # 기호가 1개 인 경우 1 단계 제목이 되고 # 기호가 증가할수록 단계가 올라간다.\n\n\n\n\n\n\n\n\nsamples/ch02/sample_02_04.qmd 코드\n\n# 1 단계 제목\n\n## 2 단계 제목\n\n### 3 단계 제목\n\n#### 4 단계 제목\n\n##### 5 단계 제목\n\n###### 6 단계 제목\n\n\n\n\nsamples/ch02/sample_02_04.qmd 변환결과\n\n\n1 단계 제목\n\n2 단계 제목\n\n3 단계 제목\n\n4 단계 제목\n\n5 단계 제목\n\n6 단계 제목",
+    "crumbs": [
+      "콰르토 마크다운 기본문법"
+    ]
+  },
+  {
+    "objectID": "02.01.markdown.html#단계-제목-1",
+    "href": "02.01.markdown.html#단계-제목-1",
+    "title": "콰르토 마크다운 기본문법",
+    "section": "2 단계 제목",
+    "text": "2 단계 제목\n\n3 단계 제목\n\n4 단계 제목\n\n5 단계 제목\n\n6 단계 제목",
+    "crumbs": [
+      "콰르토 마크다운 기본문법"
+    ]
+  },
+  {
+    "objectID": "02.01.markdown.html#하이퍼링크",
+    "href": "02.01.markdown.html#하이퍼링크",
+    "title": "콰르토 마크다운 기본문법",
+    "section": "하이퍼링크",
+    "text": "하이퍼링크\n단순한 하이퍼링크는 인터넷주소(URL)을 &lt; 기호와 &gt; 기호로 둘러싼다. 실제 링크 주소와 표기가 다른 경우에는 [표기](실제 링크 주소) 형식을 사용한다. 링크 뒤에 {}를 덧붙여서 target 등의 추가적인 속성을 넣을 수 있다.\n\n\n\n\n\n\n\n\nsamples/ch02/sample_02_05.qmd 코드\n\n기본 하이퍼링크: &lt;https://quarto.org&gt;\n\n실제링크와 표기가 다른 하이퍼링크: [Quarto](https://quarto.org)\n\n새 탭에서 열리는 하이퍼링크: [Quarto](https://quarto.org){target=\"_blank\" style=\"color: red;\"}\n\n\n\n\n\n\nsamples/ch02/sample_02_05.qmd 변환결과\n\n\n기본 하이퍼링크: https://quarto.org\n실제링크와 표기가 다른 하이퍼링크: Quarto\n새 탭에서 열리는 하이퍼링크: Quarto",
+    "crumbs": [
+      "콰르토 마크다운 기본문법"
+    ]
+  }
+]
